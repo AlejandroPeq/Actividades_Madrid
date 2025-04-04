@@ -162,14 +162,7 @@
   "dialogs": {},
   "messageConfigs": {},
   "attributes": {
-    "portalUrl": "https://sspp-esri-spain.maps.arcgis.com",
-    "isWebTier": false,
-    "clientId": "Cq8HUCYOs6U09foW",
-    "express": false,
-    "title": "Untitled experience 1",
-    "description": "",
-    "type": "Web Experience",
-    "thumbnail": null
+    "portalUrl": "https://sspp-esri-spain.maps.arcgis.com"
   },
   "sharedThemeVariables": {
     "header": {},
@@ -192,6 +185,14 @@
       "page_0": []
     }
   ],
-  "timestamp": 1743791834986,
-  "publishTimestamp": 1743791838060
+  "analytics": {
+    "enable": true,
+    "google": {
+      "measurementId": "G-L3EMCSHDWS"
+    }
+  },
+  "cookieBanner": {
+    "uid": "8dba3a40-1185-11f0-b16e-1f44703ec718"
+  },
+  "timestamp": 1743792585702
 }
